@@ -1,3 +1,4 @@
+let numeros = [1, 2, 3, 4, 5]; 
 function removerNumero(array) {
     if (array.length > 3) {
       let removido = array.pop();

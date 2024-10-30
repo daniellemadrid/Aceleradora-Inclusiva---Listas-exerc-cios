@@ -1,3 +1,4 @@
+let frutas = ["maçã", "banana", "laranja"]; 
 function manipularFruta(array, fruta) {
     if (fruta === "Morango") {
       let removido = array.shift();
