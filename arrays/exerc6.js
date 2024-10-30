@@ -1,3 +1,4 @@
+let numeros = [10, 20, 30, 40, 50]; 
 function manipularArray(array, numero) {
     if (numero > 50) {
       let removido = array.pop();
